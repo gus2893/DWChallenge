@@ -1,5 +1,6 @@
 ### To run this application run
 
+git clone https://github.com/gus2893/DWChallenge.git<br>
 npm install<br>
 npm start
 
