@@ -1,5 +1,6 @@
-##To run this application run:
-npm install
+### To run this application run
+
+npm install<br>
 npm start
 
 ## Available Scripts
